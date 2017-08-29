@@ -8,11 +8,11 @@ cd $HOME && git clone https://github.com/erfanintro/intro11 && cd energy && chmo
 *****************
 نصب اتولانچ
 --------------
-cd energy 
+cd speed 
 
-chmod +x autoenergy.sh 
+chmod +x autospeed.sh 
 
-screen ./autoenergy.sh
+screen ./autospeed.sh
 *****************
 لانچ دوباره
 --------------
