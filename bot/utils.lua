@@ -1,4 +1,4 @@
-﻿--Begin Utils.lua By #ENERGY_TEAM :)
+--Begin Utils.lua By #ENERGY_TEAM :)
 -----my_name_is_ehsan*#@mafia_boy
 -----@ENERGY_TEAM     FOR UPDATE
 -----لطفا پیام بالا رو پاک نکنید
