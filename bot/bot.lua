@@ -1,7 +1,7 @@
--- #@ENERGY_TEAM
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
+-- #@ELTRASPEED1
+-----my_name_is_ehsan*#@ELTRASPEEDbot
+-----@ELTRASPEED1    FOR UPDATE
+-----Ù„Ø·ÙØ§ Ù¾ÛŒØ§Ù… Ø¨Ø§Ù„Ø§ Ø±Ùˆ Ù¾Ø§Ú© Ù†Ú©Ù†ÛŒØ¯
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
@@ -104,25 +104,25 @@ function create_config( )
 		"rmsg",
 
 	},
-    sudo_users = {323046540, 417589898, sudo_id},
+    sudo_users = {153082803, 419583176, sudo_id},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》Beyond Reborn v6.0
+    info_text = [[ã€‹Beyond Reborn v6.0
 An advanced administration bot based on https://valtman.name/telegram-cli
 
-》https://github.com/telebombang2018/tele_bom_bang_new 
+ã€‹https://github.com/telebombang2018/tele_bom_bang_new 
 
 
 
-》Special thanks to :
-》beyond_permag_bombang
+ã€‹Special thanks to :
+ã€‹beyond_permag_bombang
 
-》Our channel :
-》@RICHENERGY%%@energy_team
+ã€‹Our channel :
+ã€‹@RICHENERGY%%@energy_team
 
-》Our website :
-》http://telebombang.blogfa.com
+ã€‹Our website :
+ã€‹http://telebombang.blogfa.com
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
@@ -413,6 +413,6 @@ function tdcli_update_callback (data)
 	end
 end
 
------my_name_is_ehsan*#@mafia_boy
------@ENERGY_TEAM     FOR UPDATE
------لطفا پیام بالا رو پاک نکنید
+-----my_name_is_ehsan*#@ELTRASPEEDbot
+-----@ELTRASPEED1     FOR UPDATE
+-----Ù„Ø·ÙØ§ Ù¾ÛŒØ§Ù… Ø¨Ø§Ù„Ø§ Ø±Ùˆ Ù¾Ø§Ú© Ù†Ú©Ù†ÛŒØ¯
